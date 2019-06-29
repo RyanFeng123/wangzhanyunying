@@ -186,7 +186,7 @@
 
 ![Alt text](picture/bing站长截图.png)
 
-![Alt text](picture/Yoast sitemap截图.png)
+
 
 ---
 
