@@ -323,9 +323,9 @@
 
   结果：WP Super Cache功能包括gzip压缩，页面缓存，缓存预加载，CDN支持，能提高网页的加载速度，提升用户体验。 
 
-![Alt text](picture/WP super cache.png) 
+![Alt text](123456.png) 
 
-![Alt text](picture/WP super.png) 
+![Alt text](picture/1234567.png) 
 
 
 - 定制化方案二：使用WP-Copyright-Protection
